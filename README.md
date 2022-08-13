@@ -8,14 +8,14 @@
 - ⚡ Fun fact: I love to draw and do calisthenics
 
 ### Connect with me:
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/paul-loguinov-a057501b7/)
+[![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/paul-loguinov-a057501b7/)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![instagram](./img/instagram-light.svg)](https://www.instagram.com/grammarcommie/)
+[![instagram](./img/instagram-dark.svg)](https://www.instagram.com/grammarcommie/)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+[![youtube](./img/youtube-light.svg)](https://www.youtube.com/channel/UCR96EwkrIraOPOId7_G5evQ)
+[![youtube](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCR96EwkrIraOPOId7_G5evQ)
 
 <br />
 
