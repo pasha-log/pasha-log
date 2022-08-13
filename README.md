@@ -8,9 +8,9 @@
 - ⚡ Fun fact: I love to draw and do calisthenics
 
 ### Connect with me:
-[![linkedin](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/paul-loguinov-a057501b7/)
+[<img align="left" alt="LinkedIn" height="30px" width="40px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)" style="padding-right:10px;" />][linkedin]
 &nbsp;&nbsp;
-[![instagram](https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg)](https://www.instagram.com/grammarcommie/)
+[<img align="left" alt="Instagram" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][instagram]
 &nbsp;&nbsp;
 [![youtube](./img/youtube-light.svg)](https://www.youtube.com/channel/UCR96EwkrIraOPOId7_G5evQ)
 
