@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love to draw and do calisthenics
 
 ### Connect with me:
-[![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/paul-loguinov-a057501b7/)
+[![linkedin](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/paul-loguinov-a057501b7/)
 &nbsp;&nbsp;
 [![instagram](https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg)](https://www.instagram.com/grammarcommie/)
 &nbsp;&nbsp;
