@@ -8,9 +8,9 @@
 - ⚡ Fun fact: I love to draw and do calisthenics
 
 ### Connect with me:
-[<img align="left" alt="LinkedIn" height="30px" width="40px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)" style="padding-right:10px;" />][linkedin]
+[<img align="left" alt="LinkedIn" height="30px" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" style="padding-right:10px;" />][linkedin]
 &nbsp;&nbsp;
-[<img align="left" alt="Instagram" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][instagram]
+[<img align="left" alt="Instagram" height="30px" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" style="padding-right:10px;" />][instagram]
 &nbsp;&nbsp;
 [![youtube](./img/youtube-light.svg)](https://www.youtube.com/channel/UCR96EwkrIraOPOId7_G5evQ)
 
