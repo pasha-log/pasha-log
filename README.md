@@ -10,7 +10,7 @@
 ### Connect with me:
 [![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/paul-loguinov-a057501b7/)
 &nbsp;&nbsp;
-[![instagram](./img/instagram-light.svg)](https://www.instagram.com/grammarcommie/)
+[![instagram](https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg)](https://www.instagram.com/grammarcommie/)
 &nbsp;&nbsp;
 [![youtube](./img/youtube-light.svg)](https://www.youtube.com/channel/UCR96EwkrIraOPOId7_G5evQ)
 
