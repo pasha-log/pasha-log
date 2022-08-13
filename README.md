@@ -9,13 +9,10 @@
 
 ### Connect with me:
 [![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/paul-loguinov-a057501b7/)
-[![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/paul-loguinov-a057501b7/)
 &nbsp;&nbsp;
 [![instagram](./img/instagram-light.svg)](https://www.instagram.com/grammarcommie/)
-[![instagram](./img/instagram-dark.svg)](https://www.instagram.com/grammarcommie/)
 &nbsp;&nbsp;
 [![youtube](./img/youtube-light.svg)](https://www.youtube.com/channel/UCR96EwkrIraOPOId7_G5evQ)
-[![youtube](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCR96EwkrIraOPOId7_G5evQ)
 
 <br />
 
