@@ -29,6 +29,7 @@
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][html5] 
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][css3]
 [<img align="left" alt="Python3" width="26px" src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/python@0.0.0/python.svg" style="padding-right:10px;" />][python]
+[<img align="left" alt="Jasmine" width="26px" src="https://upload.wikimedia.org/wikipedia/en/2/22/Logo_jasmine.svg" style="padding-right:10px;" />][jasmine]
 
 <br />
 <br />
@@ -42,3 +43,4 @@
 [html5]: https://www.w3.org/html/
 [css3]: https://developer.mozilla.org/en-US/docs/Web/CSS 
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[jasmine]: https://jasmine.github.io/
