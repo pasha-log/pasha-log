@@ -7,6 +7,12 @@
 - 📄 Know about my experiences https://www.linkedin.com/in/pashaloguinov/ 
 - ⚡ Fun fact: I love to draw and do calisthenics
 
+### Check out some of my recent projects:
+- Connect Four [Link](http://127.0.0.1:5500/Unit12.2(this)/OOconnect4.html) | [Repo](https://github.com/pasha-log/connect-four-oo-version)
+- Hacker News Clone (Hack or Snooze) [Link](http://127.0.0.1:5500/Unit16(hackOrSnooze)/index.html#) | [Repo](https://github.com/pasha-log/hack-or-snooze)
+- Giphy Party App [Link](http://127.0.0.1:5500/Unit14.3(AJAX)/giphyApp.html) | [Repo](https://github.com/pasha-log/giphy-party-app)
+- Memory Game [Link](http://127.0.0.1:5500/Unit4.5(MemoryGame)/index.html) | [Repo](https://github.com/pasha-log/memory-game/tree/main/GitHubMemGame)
+
 ### Connect with me:
 [<img align="left" alt="LinkedIn" height="30px" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" style="padding-right:10px;" />][linkedin]
 &nbsp;&nbsp;
