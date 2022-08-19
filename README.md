@@ -32,6 +32,7 @@
 [<img align="left" alt="Python3" width="26px" src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/python@0.0.0/python.svg" style="padding-right:10px;" />][python]
 [<img align="left" alt="Jasmine" width="26px" src="https://upload.wikimedia.org/wikipedia/en/2/22/Logo_jasmine.svg" style="padding-right:10px;" />][jasmine]
 [<img align="left" alt="jQuery" width="26px" src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" style="padding-right:10px;" />][jquery]
+[<img align="left" alt="Flask" width="26px" src="https://www.seekpng.com/ima/u2t4i1q8e6q8t4w7/" style="padding-right:10px;" />][flask]
 
 <br />
 <br />
@@ -47,3 +48,4 @@
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [jasmine]: https://jasmine.github.io/
 [jquery]: https://jquery.com/
+[flask]: https://flask.palletsprojects.com/en/2.2.x/
