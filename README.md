@@ -13,6 +13,7 @@
 - Giphy Party App [Link](https://pasha-log.github.io/giphy-party-app/) | [Repo](https://github.com/pasha-log/giphy-party-app)
 - Memory Game [Link](https://pasha-log.github.io/memory-game/) | [Repo](https://github.com/pasha-log/memory-game/tree/main)
 - TV Maze [Link](https://pasha-log.github.io/tv-maze/) | [Repo](https://github.com/pasha-log/tv-maze)
+- Flask Boggle [Link](https://pasha-boggle.herokuapp.com/) | [Repo](https://github.com/pasha-log/flask-boggle)
 
 ### Connect with me:
 [<img align="left" alt="LinkedIn" height="30px" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" style="padding-right:10px;" />][linkedin]
