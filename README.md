@@ -36,6 +36,7 @@
 [<img align="left" alt="jQuery" width="26px" src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" style="padding-right:10px;" />][jquery]
 [<img align="left" alt="Flask" width="26px" src="https://kevin-brown.com/images/flask-logo.svg" style="padding-right:10px;" />][flask]
 [<img align="left" alt="WSL" width="26px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" style="padding-right:10px;" />][wsl]
+[<img align="left" alt="SQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/540px-Postgresql_elephant.svg.png?20080116191800" style="padding-right:10px;" />][sql]
 
 <br />
 <br />
@@ -53,3 +54,4 @@
 [jquery]: https://jquery.com/
 [flask]: https://flask.palletsprojects.com/en/2.2.x/
 [wsl]: https://ubuntu.com/wsl
+[sql]: https://www.postgresql.org/
