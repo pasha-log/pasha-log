@@ -39,7 +39,7 @@
 [<img align="left" alt="SQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/540px-Postgresql_elephant.svg.png?20080116191800" style="padding-right:10px;" />][sql]
 [<img align="left" alt="Bootstrap" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png?20210507000024" style="padding-right:10px;" />][bootstrap]
 [<img align="left" alt="Jest" width="50px" height="30px" src="https://cdn.worldvectorlogo.com/logos/jest-2.svg" style="padding-right:10px;" />][jest]
-[<img align="left" alt="Jest" width="50px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" style="padding-right:10px;" />][node]
+[<img align="left" alt="Node" width="26px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" style="padding-right:10px;" />][node]
 
 <br />
 <br />
