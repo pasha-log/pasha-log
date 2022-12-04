@@ -42,6 +42,7 @@
 [<img align="left" alt="Jest" width="50px" height="30px" src="https://cdn.worldvectorlogo.com/logos/jest-2.svg" style="padding-right:10px;" />][jest]
 [<img align="left" alt="Node" width="26px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" style="padding-right:10px;" />][node]
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="26"/> </a>
+[<img align="left" alt="Express" width="26px" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" style="padding-right:10px;" />][express]
 
 <br />
 <br />
@@ -63,3 +64,4 @@
 [bootstrap]: https://getbootstrap.com/
 [jest]: https://jestjs.io/
 [node]: https://nodejs.org/en/
+[express]: https://expressjs.com/
