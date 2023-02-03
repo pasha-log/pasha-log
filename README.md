@@ -17,6 +17,9 @@
 - Forex Converter [Link](https://pasha-forex-converter.herokuapp.com/) | [Repo](https://github.com/pasha-log/flask-forex-converter)
 - Carbon Footprint Calculator [Link](https://carbonprint.herokuapp.com/) | [Repo](https://github.com/pasha-log/capstone1)
 - React Lights Out Game [Link](https://pasha-log.github.io/react-lights-out/) | [Repo](https://github.com/pasha-log/react-lights-out)
+- CheeZJokes App [Link](pasha-log.github.io/react-jokes-classes/) | [Repo](https://github.com/pasha-log/react-jokes-classes)
+- Snack Or Booze [Link](pasha-log.github.io/react-2-assessment/) | [Repo](https://github.com/pasha-log/react-2-assessment)
+- React Jobly Frontend [Link](https://pasha-jobly.surge.sh/) | [Repo](https://github.com/pasha-log/react-jobly-frontend)
 
 ### Connect with me:
 [<img align="left" alt="LinkedIn" height="30px" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" style="padding-right:10px;" />][linkedin]
