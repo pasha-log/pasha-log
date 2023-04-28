@@ -5,7 +5,7 @@
 - 👨‍💻 All of my projects are available at https://github.com/pasha-log
 - 📫 How to reach me pasha.log@gmail.com 
 - 📄 Know about my experiences https://www.linkedin.com/in/pashaloguinov/ 
-- ⚡ Fun fact: I love to draw and do calisthenics
+- ⚡ Fun fact: I love to draw and do calisthenics. Check out my [art](https://www.etsy.com/shop/CookinWithMyComrades?ref=search_shop_redirect).
 
 ### Check out some of my recent projects:
 - Connect Four [Link](https://pasha-log.github.io/connect-four-oo-version/) | [Repo](https://github.com/pasha-log/connect-four-oo-version)
