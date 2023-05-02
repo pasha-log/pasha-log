@@ -1,7 +1,7 @@
 ### Hi there, I'm Pasha 
 
 ## I'm an artist and web developer!👋
-- 🌱 I’m currently enrolled in an 800 hour Software Engineering Career Track Course.
+- 🌱 I recently finished an 800 hour Software Engineering Career Track Course.
 - 👨‍💻 All of my projects are available at https://github.com/pasha-log
 - 📫 How to reach me pasha.log@gmail.com 
 - 📄 Know about my experiences https://www.linkedin.com/in/pashaloguinov/ 
