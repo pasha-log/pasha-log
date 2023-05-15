@@ -8,19 +8,19 @@
 - ⚡ Fun fact: I love to draw and do calisthenics. Check out my [art](https://www.etsy.com/shop/CookinWithMyComrades?ref=search_shop_redirect).
 
 ### Check out some of my recent projects:
-- Connect Four [Link](https://pasha-log.github.io/connect-four-oo-version/) | [Repo](https://github.com/pasha-log/connect-four-oo-version)
-- Hacker News Clone (Hack or Snooze) [Link](https://pasha-log.github.io/hack-or-snooze/) | [Repo](https://github.com/pasha-log/hack-or-snooze)
-- Giphy Party App [Link](https://pasha-log.github.io/giphy-party-app/) | [Repo](https://github.com/pasha-log/giphy-party-app)
+- React Instapost(Instagram Clone) Frontend [Link](https://pasha-log-instapost.surge.sh/) | [Repo](https://github.com/pasha-log/capston2-frontend)
+- React Jobly Frontend [Link](https://pasha-jobly.surge.sh/) | [Repo](https://github.com/pasha-log/react-jobly-frontend)
+- Snack Or Booze [Link](https://pasha-log.github.io/react-2-assessment/) | [Repo](https://github.com/pasha-log/react-2-assessment)
+- CheeZJokes App [Link](https://pasha-log.github.io/react-jokes-classes/) | [Repo](https://github.com/pasha-log/react-jokes-classes)
+- React Lights Out Game [Link](https://pasha-log.github.io/react-lights-out/) | [Repo](https://github.com/pasha-log/react-lights-out)
+- Carbon Footprint Calculator [Link](https://carbonprint.herokuapp.com/) | [Repo](https://github.com/pasha-log/capstone1)
+- Forex Converter [Link](https://pasha-forex-converter.herokuapp.com/) | [Repo](https://github.com/pasha-log/flask-forex-converter)
+- Flask Boggle [Link](https://pasha-boggle.herokuapp.com/) | [Repo](https://github.com/pasha-log/flask-boggle)
 - Memory Game [Link](https://pasha-log.github.io/memory-game/) | [Repo](https://github.com/pasha-log/memory-game/tree/main)
 - TV Maze [Link](https://pasha-log.github.io/tv-maze/) | [Repo](https://github.com/pasha-log/tv-maze)
-- Flask Boggle [Link](https://pasha-boggle.herokuapp.com/) | [Repo](https://github.com/pasha-log/flask-boggle)
-- Forex Converter [Link](https://pasha-forex-converter.herokuapp.com/) | [Repo](https://github.com/pasha-log/flask-forex-converter)
-- Carbon Footprint Calculator [Link](https://carbonprint.herokuapp.com/) | [Repo](https://github.com/pasha-log/capstone1)
-- React Lights Out Game [Link](https://pasha-log.github.io/react-lights-out/) | [Repo](https://github.com/pasha-log/react-lights-out)
-- CheeZJokes App [Link](https://pasha-log.github.io/react-jokes-classes/) | [Repo](https://github.com/pasha-log/react-jokes-classes)
-- Snack Or Booze [Link](https://pasha-log.github.io/react-2-assessment/) | [Repo](https://github.com/pasha-log/react-2-assessment)
-- React Jobly Frontend [Link](https://pasha-jobly.surge.sh/) | [Repo](https://github.com/pasha-log/react-jobly-frontend)
-- React Instapost(Instagram Clone) Frontend [Link](https://pasha-log-instapost.surge.sh/) | [Repo](https://github.com/pasha-log/capston2-frontend)
+- Giphy Party App [Link](https://pasha-log.github.io/giphy-party-app/) | [Repo](https://github.com/pasha-log/giphy-party-app)
+- Hacker News Clone (Hack or Snooze) [Link](https://pasha-log.github.io/hack-or-snooze/) | [Repo](https://github.com/pasha-log/hack-or-snooze)
+- Connect Four [Link](https://pasha-log.github.io/connect-four-oo-version/) | [Repo](https://github.com/pasha-log/connect-four-oo-version)
 
 ### Connect with me:
 [<img align="left" alt="LinkedIn" height="30px" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" style="padding-right:10px;" />][linkedin]
