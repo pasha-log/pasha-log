@@ -21,6 +21,7 @@
 - TV Maze [Link](https://pasha-log.github.io/tv-maze/) | [Repo](https://github.com/pasha-log/tv-maze)
 - Giphy Party App [Link](https://pasha-log.github.io/giphy-party-app/) | [Repo](https://github.com/pasha-log/giphy-party-app)
 - Hacker News Clone (Hack or Snooze) [Link](https://pasha-log.github.io/hack-or-snooze/) | [Repo](https://github.com/pasha-log/hack-or-snooze)
+- Jeopardy Game [Link](https://pasha-log.github.io/jeopardy-game/) | [Repo](https://github.com/pasha-log/jeopardy-game)
 - Connect Four [Link](https://pasha-log.github.io/connect-four-oo-version/) | [Repo](https://github.com/pasha-log/connect-four-oo-version)
 
 ### Connect with me:
