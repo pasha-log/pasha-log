@@ -8,6 +8,7 @@
 - ⚡ Fun fact: I love to draw and do calisthenics. Check out my [art](https://www.etsy.com/shop/CookinWithMyComrades?ref=search_shop_redirect).
 
 ### Check out some of my recent projects:
+- Coalition Technologies Front-End Challenge [Link](https://pasha-log.github.io/coalition-frontend-challenge/) | [Repo](https://github.com/pasha-log/coalition-frontend-challenge)
 - React Terminator Themed Portfolio Website [Link](https://pasha-log.github.io/pasha-portfolio-site/) | [Repo](https://github.com/pasha-log/pasha-portfolio-site)
 - React Instapost(Instagram Clone) Frontend [Link](https://pasha-log-instapost.surge.sh/) | [Repo](https://github.com/pasha-log/capston2-frontend)
 - React Jobly Frontend [Link](https://pasha-jobly.surge.sh/) | [Repo](https://github.com/pasha-log/react-jobly-frontend)
